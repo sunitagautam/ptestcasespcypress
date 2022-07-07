@@ -10,7 +10,7 @@
   "description": "To run test cases 1. Open terminal 2. Run npm install 3. Run npx cypress open",
   "main": "index.js",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
